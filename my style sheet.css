@@ -1,0 +1,27 @@
+
+#headingcolor 
+{
+	text-align: center;
+	color: blue;
+}
+
+p.home { 
+  background: yellow;
+}
+
+blockquote {
+  font-style: italic;
+  width: 420px;
+  padding: 20px;
+  margin: auto;
+border: 2px solid #ff0000; 
+       background-color: #cccccc;
+       padding: 20px 10px;
+}
+
+div p  {
+background-color: green;
+}
+
+h3  { color: red;
+}
